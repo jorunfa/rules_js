@@ -4,6 +4,7 @@
     "dependencies": {
         "@aspect-test/a": "5.0.2",
         "@aspect-test/g": "1.0.0",
-        "@lib/a": "workspace:*"
+        "@lib/a": "workspace:*",
+        "get-port": "^6.1.2"
     }
 }

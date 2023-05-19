@@ -8,6 +8,7 @@ npm_package(
     srcs = [
         "index.js",
         "package.json",
+        "//:node_modules/get-port",
     ],
     out = "pkg",
     include_runfiles = False,

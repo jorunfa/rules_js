@@ -13,6 +13,7 @@ js_binary(
         ":node_modules/@aspect-test",
         ":node_modules/@lib",
         "//:node_modules/@aspect-test",
+        "//:node_modules/get-port",
     ],
     entry_point = "main.js",
 )
